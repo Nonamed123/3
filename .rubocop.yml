@@ -1,0 +1,18 @@
+AllCops:
+  DisplayCopNames: true
+Metrics/AbcSize:
+  Enabled: false
+Style/GuardClause:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+Metrics/LineLength:
+  Enabled: false
+Metrics/MethodLength:
+  Enabled: false
+Metrics/ClassLength:
+  Max: 200
+Metrics/ParameterLists:
+  Enabled: false
+Style/NumericLiteralPrefix:
+  EnforcedOctalStyle: zero_only
